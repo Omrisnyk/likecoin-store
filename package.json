@@ -119,7 +119,7 @@
     "hard-source-webpack-plugin": "^0.12.0",
     "lodash.clonedeep": "^4.5.0",
     "nightwatch": "^0.9.20",
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.13.1",
     "nyc": "^12.0.2",
     "optimize-css-assets-webpack-plugin": "^3.2.0",
     "sass-loader": "^7.0.1",
